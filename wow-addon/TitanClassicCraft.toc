@@ -1,0 +1,6 @@
+## Interface: 11305
+## Title: Titan Panel Classic Crafting
+## Dependencies: TitanClassic
+## Version: 0.1
+TitanClassicCraft.xml
+Libs\Load.xml
